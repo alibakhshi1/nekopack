@@ -25,7 +25,7 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": "1BJWap1sBuxMZkYAVpwWkRC2TgAVvcN1bePvl4W8vQgQOJIB9a96ah_EC24f2faBin0FKYfm486mTelGADXF1c6pPy1d6aVmNgYDISw4hygZiBMH7XyeklR6dbYZFclWVJV5wLnKvSilIKrbG-Q9VwrJhtFY_ubOCoDfXVmnxH6nSo0YQjxPuARaXnHEsdT05nc9IzbUg-XjHwpdBP7RKU3x0DKDswjM5MT10VA1GkcsRdzPpUB4DUn_CbxjU3PajVR7_MaP_pNanmsPGgXQmejSr0D_gtanNkk5pLxKoXaY7ePLZ1YB7RAH5lYAPHvNVZS24xE3aFSFLLWRZk4bzWvRlgsOIIhQ="
+      "value": ""
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
